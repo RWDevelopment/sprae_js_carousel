@@ -3,4 +3,4 @@ simple sprae.js with pico.css carosuel
 
 <a href="https://rwdevelopment.github.io/sprae_js_carousel" target="_blank">Live demo</a>
 
-![Toast](screen.webp)
+![Carousel](screen.webp)
